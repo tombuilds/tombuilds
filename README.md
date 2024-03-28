@@ -15,7 +15,7 @@ I'm passionate about building innovative solutions that make a positive impact o
 
 ### Education
 
-- Master of Science in Computer Science | [University of Hertfordshire], [2026]
+- Master of Science in Computer Science | University of Hertfordshire, 2026
 
 ### Projects
 
